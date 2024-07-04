@@ -7,12 +7,12 @@
     "module": true,
     "resourceType": "script"
   },
-  "C:/Users/DELL VOSTRO/OneDrive/Documents/responsi-pemrog-web/node_modules/nuxt/dist/app/entry.js": {
+  "C:/Users/DELL VOSTRO/OneDrive/Documents/responsi-pemrog-web/nuxt-individu-main/node_modules/nuxt/dist/app/entry.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
     "isEntry": true,
-    "file": "C:/Users/DELL VOSTRO/OneDrive/Documents/responsi-pemrog-web/node_modules/nuxt/dist/app/entry.js"
+    "file": "C:/Users/DELL VOSTRO/OneDrive/Documents/responsi-pemrog-web/nuxt-individu-main/node_modules/nuxt/dist/app/entry.js"
   }
 }

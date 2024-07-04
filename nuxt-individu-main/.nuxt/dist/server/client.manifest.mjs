@@ -1,1 +1,1 @@
-export { default } from "file:///D:/22.11.4626/Responsi%20pemrog%20web/responsi-pemrog-web/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
+export { default } from "file:///C:/Users/DELL%20VOSTRO/OneDrive/Documents/responsi-pemrog-web/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
